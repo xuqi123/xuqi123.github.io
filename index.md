@@ -25,6 +25,8 @@ My research interesets include computational neuroscience, brain/biology-inspire
 
 
 ### News
+- July 2020: I was honored to awarded as ABCP burasry award. 
+- June 2020: One paper was submitted to NeurIPS 2020, this paper was undergoing regular review process without desk reject.
 - December 2019: I got a travel grant by 3rd HBP Curriculum Workshop Series - Cognitive systems 2019, University of Glasgow, United Kingdom and was invited to report on Spike-image encoding and decoding mechanisms.  
 - October 2019: I attended SWC/Gatsby Symposium on Abstraction & Generalisation, University of College London, UK  
 - September 2019: I attended Oxford Autumn School in Neuroscience 26th - 27th September 2019, Oxford University, UK  
@@ -34,7 +36,9 @@ My research interesets include computational neuroscience, brain/biology-inspire
 
 ### Selected Awards
 - Honorary Visiting Fellow (Unicersity of Leicester, UK)
+- ABCP Bursary Award.(全英华人教授协会，£1000)
 - 2019 Zhejiang Lab's International Talent Fund for Young Professionals ($5000)
+- 2019 CSC-IBM scholarship (IBM ￥10000)
 - 2018 Zhejiang University academic award for outstanding doctoral candidates ($20,000)
 - 2018 Zhejiang University-Chancheng Group AI award for advanced frontiers in technology ($7000)
 - 2017 The first national Neuromorphic Computing innovation application competition and international invitational tournament https://contest.cbicr.org/en/rules/ (Second Prize, 4/128, $8000) 
@@ -65,6 +69,6 @@ My research interesets include computational neuroscience, brain/biology-inspire
 
 
 
-Last updated on November 20, 2019.
+Last updated on August 23, 2020.
 
  
