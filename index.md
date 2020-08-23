@@ -56,14 +56,15 @@ My research interesets include computational neuroscience, brain/biology-inspire
 ### Selected Publications
 1.	**Qi Xu**, Jianxin Peng, Jiangrong Shen, Huajin Tang, Gang Pan. (2019) Deep CovDenseSNN: A hierarchical event-driven dynamic framework with spiking neurons in noisy environment. (Neural Networks, Accepted)
  2.	**Qi Xu**, Yu Qi, Hang Yu, Jiangrong Shen, Huajin Tang, Gang Pan. (2018) CSNN: An Augmented Spiking based Framework with Perceptron-Inception, The 27th International Joint Conference on Artificial Intelligence (IJCAI'18), Stockholm, Sweden, July 13-19, 2018. (pp. 1646-1652)
- 3.	**Qi Xu**, Ming Zhang, Zonghua Gu, Gang Pan. (2019). Overfitting remedy by sparsifying regularization on fully-connected layers of CNNs. Neurocomputing, 328, 69–74.
- 4.	**Qi Xu**, Gang Pan. (2017) SparseConnect: Regularising CNNs on fully connected layers. Electronics Letters 53.18: 1246-1248.
- 5. **Qi Xu**, Jiangrong Shen, Gang Pan, Jian K. Liu. Reconstruction of Natural Visual Scenes from Neural Spikes with Deep Neural Networks. (Artificial, Biology and Cognition 2019, ABC 2019)
- 5.	**Qi Xu**, Jiangrong Shen, Gang Pan, Jian K. Liu. (2019) Robust Information Encoding and Representation Mechanisms in CSNN in Noisy Environment. (IEEE Transactions on Cybernetics, in prepared)
- 6.	**Qi Xu**, Jiangrong Shen, Huajin Tang, Gang Pan, Jian K. Liu. (2019) Robust Sound Recognition in Noisy Environment with Spiking Neural Networks. (Neural Computation, prepared)
- 7. **Qi Xu**, Ming Zhang, Zonghua Gu, Gang Pan. (2019). Overfitting remedy by sparsifying regularization on fully-connected layers of CNNs (Chinese Conference on Computer Vision 2017, CCCV 2017).
- 8.	De Ma, Juncheng Shen, Zonghua Gu, Ming Zhang, Xiaolei Zhu, Xiaoqiang Xu, **Qi Xu**, Yangjing Shen, Gang Pan. (2017) Darwin: A neuromorphic hardware co-processor based on spiking neural networks. Journal of Systems Architecture - Embedded Systems Design 77: 43-51
- 9. De Ma, Juncheng Shen, Zonghua Gu, Ming Zhang, Xiaolei Zhu, Xiaoqiang Xu, **Qi Xu**, Yangjing Shen, Gang Pan. (2016) Darwin: A neuromorphic hardware co-processor based on spiking neural networks. Science China  
+ 3.	**Qi Xu**, Jiangrong Shen, Huajin Tang, Gang Pan, Jian Liu. DSPD: A Deep Spike-to-Pattern Decoder for Reconstructing Sensory Information. (NeurIPS 2020, Under Review, 
+ 4. **Qi Xu**, Ming Zhang, Zonghua Gu, Gang Pan. (2019). Overfitting remedy by sparsifying regularization on fully-connected layers of CNNs. Neurocomputing, 328, 69–74.
+ 5.	**Qi Xu**, Gang Pan. (2017) SparseConnect: Regularising CNNs on fully connected layers. Electronics Letters 53.18: 1246-1248.
+ 6. **Qi Xu**, Jiangrong Shen, Gang Pan, Jian K. Liu. Reconstruction of Natural Visual Scenes from Neural Spikes with Deep Neural Networks. (Artificial, Biology and Cognition 2019, ABC 2019)
+ 7.	**Qi Xu**, Jiangrong Shen, Gang Pan, Jian K. Liu. (2019) Robust Information Encoding and Representation Mechanisms in CSNN in Noisy Environment. (IEEE Transactions on Cybernetics, in prepared)
+ 8.	**Qi Xu**, Jiangrong Shen, Huajin Tang, Gang Pan, Jian K. Liu. (2019) Robust Sound Recognition in Noisy Environment with Spiking Neural Networks. (Neural Computation, prepared)
+ 9. **Qi Xu**, Ming Zhang, Zonghua Gu, Gang Pan. (2019). Overfitting remedy by sparsifying regularization on fully-connected layers of CNNs (Chinese Conference on Computer Vision 2017, CCCV 2017).
+ 10.	De Ma, Juncheng Shen, Zonghua Gu, Ming Zhang, Xiaolei Zhu, Xiaoqiang Xu, **Qi Xu**, Yangjing Shen, Gang Pan. (2017) Darwin: A neuromorphic hardware co-processor based on spiking neural networks. Journal of Systems Architecture - Embedded Systems Design 77: 43-51
+ 11. De Ma, Juncheng Shen, Zonghua Gu, Ming Zhang, Xiaolei Zhu, Xiaoqiang Xu, **Qi Xu**, Yangjing Shen, Gang Pan. (2016) Darwin: A neuromorphic hardware co-processor based on spiking neural networks. Science China  
  
 ---
 
